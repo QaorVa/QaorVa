@@ -17,8 +17,8 @@ Here are some of the projects that me and my team made:
       </a>
     </tr>
     <tr>
-      <td><a href="https://raioncommunity.itch.io/raion-jam"><h2 align="center">Raion Jam!</h2></td>
-      <td><a href="https://alexiyous.itch.io/chronos-fox"><h2 align="center">Chronos Fox</h2></td>
+      <td><a href="https://raioncommunity.itch.io/raion-jam"><h2 align="center">Raion Jam!</h2></a></td>
+      <td><a href="https://alexiyous.itch.io/chronos-fox"><h2 align="center">Chronos Fox</h2></a></td>
     </tr>    
     <tr>
       <a href="https://alexiyous.itch.io/bullet-mage">
@@ -29,8 +29,8 @@ Here are some of the projects that me and my team made:
       </a>
     </tr>
     <tr>
-      <td><a href="https://alexiyous.itch.io/bullet-mage"><h2 align="center">BulletMage: Elemental Havoc</h2></td>
-      <td><a href="https://alexiyous.itch.io/furry-ocious-showdown"><h2 align="center">Furry-Ocious Showdown</h2></td>
+      <td><a href="https://alexiyous.itch.io/bullet-mage"><h2 align="center">BulletMage: Elemental Havoc</h2></a></td>
+      <td><a href="https://alexiyous.itch.io/furry-ocious-showdown"><h2 align="center">Furry-Ocious Showdown</h2></a></td>
     </tr> 
   </table>
 
