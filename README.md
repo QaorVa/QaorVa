@@ -28,9 +28,9 @@ Here are some of the projects that me and my team made:
 
 </div>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/QaorVa">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QaorVa&layout=compact&theme=algolia"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QaorVa&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QaorVa&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QaorVa&layout=compact&theme=algolia"/>
 </a>
 </p>
