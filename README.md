@@ -2,7 +2,9 @@
 
 I'm **Abdan Nur Fikri**. <br>
 
-I'm a **Game Programmer** at Raion Community.
+Currently participating on Bangkit Academy as Mobile Developer Cohort 📱.
+
+I'm a **Game Programmer** at Raion Community 🎮.
 
 Here are some of the projects that me and my team made:
 
