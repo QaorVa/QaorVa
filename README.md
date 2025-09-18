@@ -2,7 +2,7 @@
 
 I'm **Abdan Nur Fikri**. <br>
 
-Currently working on my thesis.
+I'm a recent **Information Systems** Graduate from University of Brawijaya
 
 I'm a **Game Programmer** at Raion Community 🎮.
 
